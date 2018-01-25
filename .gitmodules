@@ -1,0 +1,3 @@
+[submodule "themes/forty"]
+	path = themes/forty
+	url = git@github.com:MarcusVirg/forty.git
